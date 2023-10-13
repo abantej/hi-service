@@ -1,10 +1,10 @@
-package io.audax.helloservice;
+package io.audax.hiservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloServiceApplicationTests {
+class HiServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
